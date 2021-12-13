@@ -1,0 +1,55 @@
+.trigger {
+    padding-top: -54px;
+    font-size: 18px;
+    line-height: 24px;
+    cursor: pointer;
+    transition: color 0.3s;
+  }
+  
+  .trigger:hover {
+    color: #d31794;
+  }
+  
+
+  .logo {
+    height: 90px;
+    margin: 90px;
+    background: #fff;
+    border-radius: 50%;
+    text-align: center;
+    margin-left: 60px;
+
+  }
+  
+  .site-layout {
+    background: #fff;
+    /* padding-top: 64px; */
+     
+  }
+
+  .site-layout-background{
+    background: #fff;
+    /* height: 150px; */
+  }
+
+  .TopHeading{
+    margin-top: -65px;
+    margin-left: 40px;
+    font-weight: 600;
+    font-size: 40px;
+  }
+
+  .profile_name{
+    text-align: center;
+    margin-top: -70px;
+  }
+
+  .hide{
+    display: none;
+
+  }
+
+  .show{
+    display: flex;
+    height: 200px;
+  }

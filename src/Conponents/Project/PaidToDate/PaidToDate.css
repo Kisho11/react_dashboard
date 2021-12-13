@@ -1,0 +1,32 @@
+.paid_to_date {
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+  margin: "10px 20px 10px 40px";
+  padding: 20px;
+  width: 100%;
+}
+.paid_to_date_head {
+  color: rgb(184, 185, 185);
+  font-weight: 900;
+}
+.paid_to_date_amount {
+  color: rgb(0, 0, 0);
+  font-weight: 700;
+  font-size: 25px;
+  margin-top: -12px;
+}
+
+.paid_to_date_last {
+  color: rgb(184, 185, 185);
+  font-weight: 300;
+}
+.paid_to_date_date {
+  color: rgb(0, 0, 0);
+  font-weight: 600;
+  margin-top: -12px;
+  font-size: 15px;
+}
+.paid_to_date_line {
+    color: rgb(26, 194, 110);
+    border-bottom: 3px solid rgb(26, 194, 110);
+    width:100%
+  }
